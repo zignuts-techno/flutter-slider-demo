@@ -1,0 +1,4 @@
+#Thu Jun 02 14:48:20 IST 2022
+base.0=/Users/ztlab51/Downloads/testassignmentcontrol/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
